@@ -78,7 +78,7 @@ int main() {
         } else if (command == "exit") {
             break;
         } else {
-            std::couta << "Неизвестная команда\n";
+            std::cout << "Неизвестная команда\n";
             std::cin.ignore(32768, '\n');
             continue;
         }
