@@ -40,6 +40,7 @@ int main() {
                 std::cout << "Слишком большой индекс\n";
                 continue;
             }
+            delete figures[index];
             figures.erase(figures.begin() + index);
             continue;
 
