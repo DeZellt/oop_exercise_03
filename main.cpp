@@ -65,7 +65,7 @@ int main() {
             size_t index;
             std::cin >> index;
             if (index >= figures.size()) {
-                std::cout << "Слишком большой индекс\n";na
+                std::cout << "Слишком большой индекс\n";
                 continue;
             }
             std::cout << *figures[index] << "\n";
