@@ -1,0 +1,4 @@
+add square 2 0 0 2 -2 0 0 -2
+add square 2 0 0 1 -2 0 0 -2
+printall
+exit

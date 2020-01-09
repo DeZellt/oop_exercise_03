@@ -1,0 +1,10 @@
+add rectangle 0 0 4 0 0 4 4 4
+add trapeze -5 -4 -3 -2 -3 -5 -1 -4
+print 2
+print 1
+printall
+remove 0
+printall
+Трапеция, точки - (-5 -4) (-3 -2) (-3 -5) (-1 -4)
+exit
+
